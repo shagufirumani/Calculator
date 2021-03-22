@@ -26,5 +26,12 @@ namespace ConsoleApp1
             Console.WriteLine("sub:" + result1);
 
         }
+
+        public void Mul()
+        {
+            result = X * Y;
+            Console.WriteLine("Multiplication: " + result);
+
+        }
     }
 }
