@@ -38,9 +38,6 @@ namespace ConsoleApp1
         {
             Console.WriteLine("method by Deepa");
         }
-        public void naughtyfellowstest()
-        {
-            Console.WriteLine("method by santhiya");
-        }
+       
     }
 }
