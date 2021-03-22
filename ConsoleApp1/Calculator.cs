@@ -38,5 +38,12 @@ namespace ConsoleApp1
         {
             Console.WriteLine("method by Deepa");
         }
+
+        public void Div()
+        {
+            result = X / Y;
+            Console.WriteLine("Division: " + result);
+
+        }
     }
 }
