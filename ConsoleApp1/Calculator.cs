@@ -33,5 +33,10 @@ namespace ConsoleApp1
             Console.WriteLine("Multiplication: " + result);
 
         }
+
+        public void DeepaTest()
+        {
+            Console.WriteLine("method by Deepa");
+        }
     }
 }
