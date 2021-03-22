@@ -57,5 +57,9 @@ namespace ConsoleApp1
             result = X / Y;
             Console.WriteLine("Division: " + result);
         }
+        public void naughtyfellows()
+        {
+            Console.WriteLine("method by grp");
+        }
     }
 }
