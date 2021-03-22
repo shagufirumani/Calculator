@@ -22,6 +22,10 @@ namespace ConsoleApp1
         }
         public void sub()
         {
+            Console.WriteLine("Enter First number");
+            X = int.Parse(Console.ReadLine());
+            Console.WriteLine("Enter Second number");
+            Y = int.Parse(Console.ReadLine());
             int result1 = X - Y;
             Console.WriteLine("sub:" + result1);
 
@@ -29,6 +33,10 @@ namespace ConsoleApp1
 
         public void Mul()
         {
+            Console.WriteLine("Enter First number");
+            X = int.Parse(Console.ReadLine());
+            Console.WriteLine("Enter Second number");
+            Y = int.Parse(Console.ReadLine());
             result = X * Y;
             Console.WriteLine("Multiplication: " + result);
 
@@ -39,5 +47,15 @@ namespace ConsoleApp1
             Console.WriteLine("method by Deepa");
         }
        
+
+        public void Div()
+        {
+            Console.WriteLine("Enter First number");
+            X = int.Parse(Console.ReadLine());
+            Console.WriteLine("Enter Second number");
+            Y = int.Parse(Console.ReadLine());
+            result = X / Y;
+            Console.WriteLine("Division: " + result);
+        }
     }
 }
