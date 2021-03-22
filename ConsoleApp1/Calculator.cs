@@ -20,5 +20,11 @@ namespace ConsoleApp1
             result = X + Y;
                 Console.WriteLine("Addition:" + result);
         }
+        public void sub()
+        {
+            int result1 = X - Y;
+            Console.WriteLine("sub:" + result1);
+
+        }
     }
 }
