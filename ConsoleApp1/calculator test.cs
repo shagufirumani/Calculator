@@ -35,8 +35,12 @@ namespace ConsoleApp1
         {
             Console.WriteLine("o my god why this is happens for u and santhiya");
         }
+
+        public void thanks()
+        {
+            Console.WriteLine("Thank you Sandnya aka Santhiya/Sathiya :D");
+        }
     }
 
     }
     
-}
