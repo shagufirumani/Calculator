@@ -30,5 +30,9 @@ namespace ConsoleApp1
         {
             Console.WriteLine("I am getting error");
         }
+        public void omg()
+        {
+            Console.WriteLine("o my god why this is happens for u and santhiya");
+        }
     }
 }
