@@ -20,6 +20,11 @@ namespace ConsoleApp1
         public void hi()
         {
             Console.WriteLine("Hi ! This is Sandnya");
+
+        }
+        public void hello()
+        {
+            Console.WriteLine("Hi ! This is Santhosh");
         }
     }
 }
