@@ -26,8 +26,7 @@ namespace ConsoleApp1
         public void hello()
         {
             Console.WriteLine("Hi ! This is Santhosh");
-        }
-         
+
     }
     
 }
