@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="calculator test.cs" />
     <Compile Include="Calculator.cs" />
+    <Compile Include="calculator_azure.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
