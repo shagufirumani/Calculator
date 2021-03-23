@@ -26,5 +26,9 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hi ! This is Santhosh");
         }
+        public void checking()
+        {
+            Console.WriteLine("I am getting error");
+        }
     }
 }
