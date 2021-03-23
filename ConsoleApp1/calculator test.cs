@@ -16,5 +16,10 @@ namespace ConsoleApp1
         {
             Console.WriteLine("shagufi new method");
         }
+
+        public void hi()
+        {
+            Console.WriteLine("Hi ! This is Sandnya");
+        }
     }
 }
