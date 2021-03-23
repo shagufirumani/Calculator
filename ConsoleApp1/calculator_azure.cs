@@ -12,5 +12,9 @@ namespace ConsoleApp1
         {
             Console.WriteLine("edit by shagufi");
         }
+        public void santhosh()
+        {
+            Console.WriteLine("name is santhosh");
+        }
     }
 }
