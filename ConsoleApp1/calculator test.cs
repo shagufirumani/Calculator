@@ -15,6 +15,7 @@ namespace ConsoleApp1
         public void test()
         {
             Console.WriteLine("shagufi new method");
+            Console.Read();
         }
 
         public void hi()
@@ -26,5 +27,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hi ! This is Santhosh");
         }
+         
     }
+    
 }
