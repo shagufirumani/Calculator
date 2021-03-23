@@ -46,6 +46,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("method by Deepa");
         }
+       
 
         public void Div()
         {
@@ -55,6 +56,10 @@ namespace ConsoleApp1
             Y = int.Parse(Console.ReadLine());
             result = X / Y;
             Console.WriteLine("Division: " + result);
+        }
+        public void naughtyfellows()
+        {
+            Console.WriteLine("method by grp");
         }
     }
 }
