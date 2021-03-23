@@ -61,5 +61,9 @@ namespace ConsoleApp1
         {
             Console.WriteLine("method by grp");
         }
+         public void do()
+        {
+            Console.WriteLine("hello people");
+        }
     }
 }
