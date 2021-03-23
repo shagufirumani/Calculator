@@ -26,6 +26,16 @@ namespace ConsoleApp1
         public void hello()
         {
             Console.WriteLine("Hi ! This is Santhosh");
+        }
+        public void checking()
+        {
+            Console.WriteLine("I am getting error");
+        }
+        public void omg()
+        {
+            Console.WriteLine("o my god why this is happens for u and santhiya");
+        }
+    }
 
     }
     
